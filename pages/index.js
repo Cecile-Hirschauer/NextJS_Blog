@@ -49,7 +49,7 @@ export default function Home() {
                 <p className="card-text">
                   Ajoutez, invitez et discutez avec les différents membres.
                 </p>
-                <Link href='/utilisteurs'>
+                <Link href='/utilisateurs'>
                   <a>Découvrez la liste de membres</a>
                 </Link>
               </div>
