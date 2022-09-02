@@ -1,12 +1,12 @@
 import React from 'react'
 import { v4 as uuidv4 } from 'uuid';
 
-export default function user(props) {
+export default function User(props) {
     // console.log(props)
     return (
         <div className='container px-4 pt-3'>
             <h2 className="text-center">
-                Nom de l'utilisateur: {props.user.username}
+                Nom de l&apos;utilisateur: {props.user.username}
             </h2>
             <div className="row justify-content-center">
                 <div className="col-12 col-lg-8">

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function article(props) {
+export default function Article(props) {
     // console.log(props)
     return (
         <div className="container px-4 pt-5">
